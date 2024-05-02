@@ -1,0 +1,25 @@
+9 15
+Cesar
+Pablo
+Felipe
+Jorge
+Rocio
+Vale
+Julian
+Luis
+Rodrigo
+Cesar,Pablo
+Cesar,Felipe
+Cesar,Jorge
+Cesar,Rocio
+Pablo,Julian
+Pablo,Felipe
+Pablo,Jorge
+Pablo,Rocio
+Julian,Felipe
+Julian,Jorge
+Julian,Rocio
+Felipe,Jorge
+Rocio,Jorge
+Vale,Luis
+Luis,Rodrigo

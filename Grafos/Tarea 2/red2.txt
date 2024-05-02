@@ -1,0 +1,14 @@
+5 7
+Cesar
+Pablo
+Felipe
+Jorge
+Rocio
+Cesar,Pablo
+Cesar,Felipe
+Cesar,Jorge
+Pablo,Felipe
+Pablo,Jorge
+Felipe,Jorge
+Rocio,Jorge
+
